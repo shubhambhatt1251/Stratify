@@ -2,7 +2,7 @@
   <h1>🚀 STRATIFY AI</h1>
   <h3><em>Where Strategy Meets Intelligence</em></h3>
   
-  <a href="https://stratify-official.vercel.app/"><img src="https://img.shields.io/badge/🌟%20LIVE%20WEBSITE-00C896?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
   <a href="https://github.com/shubhambhatt1251/-Stratify-"><img src="https://img.shields.io/badge/Built%20with-React%2018-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
   <a href="https://github.com/shubhambhatt1251/-Stratify-"><img src="https://img.shields.io/badge/Powered%20by-Vite%206-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="https://github.com/shubhambhatt1251/-Stratify-"><img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -219,7 +219,7 @@ If you found this project helpful, please consider giving it a ⭐️ on [GitHub
 <div align="center">
   <p><strong>Built with ❤️ by Shubham Bhatt</strong></p>
   <p>
-    <a href="https://stratify-official.vercel.app/">Live Demo</a> |
+   \
     <a href="https://github.com/shubhambhatt1251/-Stratify-">GitHub</a>
   </p>
   <sub>🎨 Copyright © 2025 Stratify AI. All rights reserved.</sub>
